@@ -1,6 +1,6 @@
 # wa_spammer
 
-A new Flutter project.
+MUST INSTALL VCREDIST TO WORK
 
 ## Getting Started
 
